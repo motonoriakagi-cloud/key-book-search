@@ -1,2 +1,5 @@
 # PDFファイルは容量が大きいため除外
 *.pdf
+
+# SQLiteインデックス（ローカルで build_index.py を実行して生成）
+index.db
