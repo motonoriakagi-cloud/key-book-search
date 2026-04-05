@@ -3,3 +3,6 @@
 
 # SQLiteインデックス（ローカルで build_index.py を実行して生成）
 index.db
+
+# export_index.py が生成する一時ファイル
+search_index.json
